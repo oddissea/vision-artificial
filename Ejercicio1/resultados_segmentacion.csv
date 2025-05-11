@@ -1,0 +1,9 @@
+Aspecto,Resultados
+Número de caracteres reales,1384
+Número total de contornos (chars),1265
+Número de caracteres correctos,1007
+Número de caracteres solapados (criterio área),17
+Número de caracteres con errores (ruido),241
+Porcentaje de acierto,79.60 %
+Porcentaje de solapados,1.34 %
+Porcentaje de errores,19.05 %
